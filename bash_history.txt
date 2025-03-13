@@ -1,0 +1,28 @@
+mkdir number_guessing_game 
+touch number_guess.sh
+cd number_guess_game
+cd number_guessing_game
+touch number_guess.sh
+chmod +x number_guess.sh
+git init
+git add .
+git commit -m "Initial commit"
+./number_guess.sh
+git add .
+git commit -m "feat: enter username"
+git log 
+psql --username=freecodecamp --dbname=postgres 
+./number_guess.sh\
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git log --oneline
+git status
+git add .
+git commit -m "feat: add guessed number in a loop format"
+git status
+git add .
+git commit -m "feat: add higher, lower, equal logic for a  guessed number"
+git log --oneline
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+psql --username=freecodecamp --dbname=postgres 
